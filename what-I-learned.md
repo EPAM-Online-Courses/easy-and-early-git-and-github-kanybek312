@@ -1,4 +1,4 @@
-# :wave: The Basics of Git and GitHub 
+# :wave:
 
 ## What I learn from this course: 
 
